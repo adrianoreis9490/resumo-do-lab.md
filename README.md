@@ -11,7 +11,7 @@ A computação em nuvem é o fornecimento de serviços da computação pela inte
 
 EXEMPLOS: MICROSOFT, GOOGLE, E OUTROS
 
-COMPUTAÇÃO ------REDE--------ARMAZENAMENTO
+COMPUTAÇÃO ------REDE-------ARMAZENAMENTO
 
 Tambêm aprendemos os tipos de nuvens (PRIVADA, PUBRICA, HIBRIDA)
 
